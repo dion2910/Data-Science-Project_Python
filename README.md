@@ -1,0 +1,2 @@
+# SC1015-DSAI_Python
+NTU SC1015 Project
