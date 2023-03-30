@@ -11,8 +11,8 @@ Singapore was crowned the happiest country in Asia and ranked 25th in the UN's W
 School of Computer Science and Engineering
 
 1. Dion Lim ([@dion2910](https://github.com/dion2910))
-2. Marvin ([@Brloom]())
-3. Merwyn Masagca ([@t4bles]())
+2. Marvin ([@Brloom](https://github.com/Brloom))
+3. Merwyn Masagca ([@t4bles](https://github.com/t4bles))
 
 ## Table of Contents
 1. Problem Formulation
