@@ -22,8 +22,8 @@ School of Computer Science and Engineering
 5. References
 
 ## Problem Formulation
--To find out which factors are the most important in predicting happiness in a country
--To find and build a model that best predicts happiness in a country
+- To find out which factors are the most important in predicting happiness in a country
+- To find and build a model that best predicts happiness in a country
 
 ## Models Used
 1. Multi-Variate Linear Regression
@@ -32,9 +32,17 @@ School of Computer Science and Engineering
 4. Ridge Regression
 
 ## Data-driven insights and Recommendations
--Random tree regression has the best model amongst the three used, having the best explained varience(R^2) of 0.838 and the lowest mean squared error(MSE) of 0.204
--From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are GDP per capita, Social Support and Healthy life expectancy at birth.
--Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
+- Random tree regression has the best model amongst the four used, having the best explained varience(R^2) of 0.838 and the lowest mean squared error(MSE) of 0.204
+
+|         | Explained Variance   | MSE  |
+| ------- | ------- | ------- |
+| **Multi Variate Linear Regression** | 0.7309 | 0.3256 |
+| **Multi Variate Linear Regression (With k-fold)** | 0.7605 | 0.3028 |
+| **Random Forest Regression** | 0.8591 | 0.1763 |
+| **Ridge Regression** | 0.7812 | 0.2946 |
+
+- From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are GDP per capita, Social Support and Healthy life expectancy at birth.
+- Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
 
 ## Key learning points
 
