@@ -41,5 +41,7 @@ School of Computer Science and Engineering
 
 ## References
 https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#sphx-glr-auto-examples-model-selection-plot-cv-indices-py
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#
+https://scikit-learn.org/stable/modules/cross_validation.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
 https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression
