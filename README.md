@@ -26,9 +26,10 @@ School of Computer Science and Engineering
 -To find and build a model that best predicts happiness in a country
 
 ## Models Used
--Multi variate linear regression
--Multi variate linear regression with k-fold
--Random forest regression
+1. Multi-Variate Linear Regression
+2. Multi-Variate Linear Regression with K-fold
+3. Random Forest Regression
+4. Ridge Regression
 
 ## Data-driven insights and Recommendations
 -Random tree regression has the best model amongst the three used, having the best explained varience(R^2) of 0.838 and the lowest mean squared error(MSE) of 0.204
@@ -40,8 +41,7 @@ School of Computer Science and Engineering
 
 
 ## References
-https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#sphx-glr-auto-examples-model-selection-plot-cv-indices-py
-https://scikit-learn.org/stable/modules/cross_validation.html
-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
-https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression
+1. https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf
+2. https://scikit-learn.org/stable/modules/cross_validation.html
+3. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+4. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html
