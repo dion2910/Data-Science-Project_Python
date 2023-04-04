@@ -22,11 +22,24 @@ School of Computer Science and Engineering
 5. References
 
 ## Problem Formulation
+-To find out which factors are the most important in predicting happiness in a country
+-To find and build a model that best predicts happiness in a country
 
 ## Models Used
+-Multi variate linear regression
+-Multi variate linear regression with k-fold
+-Random forest regression
 
 ## Data-driven insights and Recommendations
+-Random tree regression has the best model amongst the three used, having the best explained varience(R^2) of 0.838 and the lowest mean squared error(MSE) of 0.204
+-From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are GDP per capita, Social Support and Healthy life expectancy at birth.
+-Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
 
 ## Key learning points
 
+
+
 ## References
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html#sphx-glr-auto-examples-model-selection-plot-cv-indices-py
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#
+https://www.kaggle.com/code/jnikhilsai/cross-validation-with-linear-regression
