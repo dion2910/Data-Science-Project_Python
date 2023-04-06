@@ -32,7 +32,7 @@ School of Computer Science and Engineering
 4. Ridge Regression
 
 ## Data-driven insights and Recommendations
-- Random tree regression has the best model amongst the four used, having the best explained varience(R^2) of 0.838 and the lowest mean squared error(MSE) of 0.204
+- Random tree regression has the best model amongst the four used, having the best explained varience(R^2) of 0.8591 and the lowest mean squared error(MSE) of 0.1763
 
 |         | Explained Variance   | MSE  |
 | ------- | ------- | ------- |
@@ -41,12 +41,17 @@ School of Computer Science and Engineering
 | **Random Forest Regression** | 0.8591 | 0.1763 |
 | **Ridge Regression** | 0.7812 | 0.2946 |
 
-- From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are GDP per capita, Social Support and Healthy life expectancy at birth.
+- From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are: 
+- GDP per capita 
+- Social Support  
+- Healthy life expectancy at birth
+
 - Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
 
 ## Key learning points
 - Applied relavent EDA that helped us in finding useful variables
-- Learnt 
+- Learnt and applied k-fold cross validation for our models, to get better accuracy
+- Learnt new regression models (Random Forest Regression and Ridge Regression) to determine which models would give us the best results
 
 
 
