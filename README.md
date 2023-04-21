@@ -46,15 +46,13 @@ From our analysis of the dataset, we have found that there are 3 variables that 
 - Social Support  
 - Healthy life expectancy at birth
 
-Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
+Singapore should focus on these 3 variables in order to maximise the happiness of the country and the Singapore government could consider using Random Forest Regression to compare our performance against other countries.
 
 ## Key learning points
 - Cleaning and preparing dataset
 - Applied relavent EDA that helped us in finding useful variables
 - Learnt new regression models (K-fold, Random Forest Regression and Ridge Regression) and how they improve accuracy of prediction
-- Determine which models would give us the best results
-
-
+- Determine which models would give us the best results with use of bar graph
 
 ## References
 1. https://happiness-report.s3.amazonaws.com/2023/WHR+23_Statistical_Appendix.pdf
