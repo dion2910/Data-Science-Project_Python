@@ -10,26 +10,20 @@ Singapore was crowned the happiest country in Asia and ranked 25th in the UN's W
 
 School of Computer Science and Engineering
 
-1. Dion Lim ([@dion2910](https://github.com/dion2910))
-2. Marvin ([@Brloom](https://github.com/Brloom))
-3. Merwyn Masagca ([@t4bles](https://github.com/t4bles))
+1. Dion Lim ([@dion2910](https://github.com/dion2910)) - Machine Learning, Ridge regression, Random Forest Regression
+2. Marvin ([@Brloom](https://github.com/Brloom)) - Exploratory Data Analysis
+3. Merwyn Masagca ([@t4bles](https://github.com/t4bles)) - Problem Formulation, Data Preparation, Recommendations
 
 ## Table of Contents
 1. Problem Formulation
 2. Regression Models Used
-3. Data preparation and cleaning
-4. Exploratory Data Analysis
-5. Data-driven insights and Recommendations
-6. Key learning points
-7. References
+3. Data-driven insights and Recommendations
+4. Key learning points
+5. References
 
 ## Problem Formulation
 - To find out which factors are the most important in predicting happiness in a country
 - To find and build a model that best predicts happiness in a country
-
-## Data preparation and cleaning
-
-## Exploratory Data Analysis
 
 ## Regression Models Used
 1. Multi-Variate Linear Regression
