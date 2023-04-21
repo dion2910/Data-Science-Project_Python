@@ -36,10 +36,10 @@ School of Computer Science and Engineering
 
 |         | Explained Variance   | MSE  |
 | ------- | ------- | ------- |
-| **Multi Variate Linear Regression** | 0.7309 | 0.3256 |
+| **Multi Variate Linear Regression** | 0.7132 | 0.3504 |
 | **Multi Variate Linear Regression (With k-fold)** | 0.7605 | 0.3028 |
-| **Random Forest Regression** | 0.8591 | 0.1763 |
-| **Ridge Regression** | 0.7812 | 0.2946 |
+| **Random Forest Regression** | 0.8692 | 0.1640 |
+| **Ridge Regression** | 0.7760 | 0.2869 |
 
 - From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are: 
 - GDP per capita 
