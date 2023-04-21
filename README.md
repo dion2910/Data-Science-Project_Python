@@ -16,14 +16,20 @@ School of Computer Science and Engineering
 
 ## Table of Contents
 1. Problem Formulation
-2. Models Used
-3. Data-driven insights and Recommendations
-4. Key learning points
-5. References
+2. Regression Models Used
+3. Data preparation and cleaning
+4. Exploratory Data Analysis
+5. Data-driven insights and Recommendations
+6. Key learning points
+7. References
 
 ## Problem Formulation
 - To find out which factors are the most important in predicting happiness in a country
 - To find and build a model that best predicts happiness in a country
+
+## Data preparation and cleaning
+
+## Exploratory Data Analysis
 
 ## Regression Models Used
 1. Multi-Variate Linear Regression
