@@ -27,19 +27,19 @@ School of Computer Science and Engineering
 
 ## Models Used
 1. Multi-Variate Linear Regression
-2. Multi-Variate Linear Regression with K-fold
+2. K-fold Multi-Variate Linear Regression
 3. Random Forest Regression
 4. Ridge Regression
 
 ## Data-driven insights and Recommendations
-- Random tree regression has the best model amongst the four used, having the best explained varience(R^2) of 0.8591 and the lowest mean squared error(MSE) of 0.1763
+- Random tree regression has the best model amongst the four used, having the best explained varience(R^2) of 0.8692 and the lowest mean squared error(MSE) of 0.1641
 
 |         | Explained Variance   | MSE  |
 | ------- | ------- | ------- |
 | **Multi Variate Linear Regression** | 0.7132 | 0.3504 |
-| **Multi Variate Linear Regression (With k-fold)** | 0.7605 | 0.3028 |
-| **Random Forest Regression** | 0.8692 | 0.1640 |
-| **Ridge Regression** | 0.7760 | 0.2869 |
+| **Multi Variate Linear Regression (With k-fold)** | 0.7606 | 0.3029 |
+| **Random Forest Regression** | 0.8692 | 0.1641 |
+| **Ridge Regression** | 0.7761 | 0.2870 |
 
 - From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are: 
 - GDP per capita 
