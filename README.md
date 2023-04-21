@@ -37,7 +37,7 @@ School of Computer Science and Engineering
 |         | Explained Variance   | MSE  |
 | ------- | ------- | ------- |
 | **Multi Variate Linear Regression** | 0.7132 | 0.3504 |
-| **Multi Variate Linear Regression (With k-fold)** | 0.7606 | 0.3029 |
+| **K-fold Multi Variate Linear Regression** | 0.7606 | 0.3029 |
 | **Random Forest Regression** | 0.8692 | 0.1641 |
 | **Ridge Regression** | 0.7761 | 0.2870 |
 
