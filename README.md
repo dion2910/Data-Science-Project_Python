@@ -49,6 +49,7 @@ School of Computer Science and Engineering
 - Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
 
 ## Key learning points
+- Cleaning and preparing dataset
 - Applied relavent EDA that helped us in finding useful variables
 - Learnt and applied k-fold cross validation for our models, to get better accuracy
 - Learnt new regression models (Random Forest Regression and Ridge Regression) to determine which models would give us the best results
