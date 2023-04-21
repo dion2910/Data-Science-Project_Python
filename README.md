@@ -57,7 +57,8 @@ School of Computer Science and Engineering
 ## Key learning points
 - Cleaning and preparing dataset
 - Applied relavent EDA that helped us in finding useful variables
-- Learnt new regression models (K-fold, Random Forest Regression and Ridge Regression) to determine which models would give us the best results
+- Learnt new regression models (K-fold, Random Forest Regression and Ridge Regression) and how they improve accuracy of prediction
+- Determine which models would give us the best results
 
 
 
