@@ -25,7 +25,7 @@ School of Computer Science and Engineering
 - To find out which factors are the most important in predicting happiness in a country
 - To find and build a model that best predicts happiness in a country
 
-## Models Used
+## Regression Models Used
 1. Multi-Variate Linear Regression
 2. K-fold Multi-Variate Linear Regression
 3. Random Forest Regression
