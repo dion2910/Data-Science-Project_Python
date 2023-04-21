@@ -41,12 +41,12 @@ School of Computer Science and Engineering
 | **Random Forest Regression** | 0.8692 | 0.1641 |
 | **Ridge Regression** | 0.7761 | 0.2870 |
 
-- From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are: 
+From our analysis of the dataset, we have found that there are 3 variables that best predict the happiness of a country, which are: 
 - GDP per capita 
 - Social Support  
 - Healthy life expectancy at birth
 
-- Hence for our recommendation, Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
+Singapore should focus on these 3 variables in order to maximise the happiness of the country and if the Singapore governemnt would want to compare our performance against other countries, Random Forest regression should be used.
 
 ## Key learning points
 - Cleaning and preparing dataset
