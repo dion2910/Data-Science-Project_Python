@@ -10,9 +10,9 @@ Singapore was crowned the happiest country in Asia and ranked 25th in the UN's W
 
 School of Computer Science and Engineering
 
-1. Dion Lim ([@dion2910](https://github.com/dion2910)) - Machine Learning, Ridge regression, Random Forest Regression
-2. Marvin ([@Brloom](https://github.com/Brloom)) - Exploratory Data Analysis
-3. Merwyn Masagca ([@t4bles](https://github.com/t4bles)) - Problem Formulation, Data Preparation, Recommendations
+1. Dion Lim ([@dion2910](https://github.com/dion2910)) - Data Visualisation, Machine Learning, Ridge regression, Random Forest Regression
+2. Marvin ([@Brloom](https://github.com/Brloom)) - Exploratory Data Analysis, K-fold Linear Regression
+3. Merwyn Masagca ([@t4bles](https://github.com/t4bles)) - Problem Formulation, Data Preparation
 
 ## Table of Contents
 1. Problem Formulation
